@@ -1,0 +1,9 @@
+{
+	"name": "nodecg-spyrobot",
+	"version": "0.0.1",
+	"nodecgDependency": "0.6.2",
+	"description": "Integrates TwitchChat and NodeCG",
+	"homepage": "steamcommunity.com/id/play_pyro",
+	"authors": ["Declan/Spyro <ducttapemagic@gmail.com>"],
+	"license": "MIT"
+}
